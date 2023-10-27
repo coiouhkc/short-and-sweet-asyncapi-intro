@@ -84,6 +84,10 @@ UIs for :
 * Spring Boot
 * Quarkus
 
+<!--
+Couldn't make any of it work for me, but at least Springwolf has a demo site.
+-->
+
 
 ---
 
