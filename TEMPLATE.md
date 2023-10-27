@@ -1,41 +1,141 @@
 ---
 marp: true
-title: Short and sweet
-description: Short and sweet
+title: Short and sweet AsyncAPI Intro
+description: Short and sweet AsyncAPI Intro
 theme: uncover
 paginate: true
 _paginate: false
-header: "**Name Surname** Short and Sweet"
-footer: "![image height:32px](https://i.picsum.photos/id/421/200/32.jpg?hmac=vqPQvcRzQRThfBK-Hj8n-PlZJsL8eG1zRTwk5hit1L0)"
-
 
 
 ---
 
 # Short and sweet
 
-## Topic
+## AsyncAPI Intro & AsyncAPI Generator
+
+---
+
+# Warning
+
+Things you're about to be demonstrated are in early alpha - try them at home and contribute ;)
+
+---
+
+![](images/8407v2.jpg)
 
 ---
 
 # Intro, reason & background
 
+## OpenAPI ???
+
 <!--
-Some intro.
-Then some reason and background.
+OpenAPI is great for REST-like (synchronous) desing-first API design and implementation - is there anything comparable for asynchronous APIs?
 -->
 
 ---
 
-# Use case 1
+# Intro, reason & background
+
+## AsyncAPI !!!
+
+<!--
+https://www.asyncapi.com/
+-->
+
 
 ---
 
-# Use case 2
+# Intro, reason & background
+
+## AsyncAPI ???
+
+https://www.postman.com/state-of-api/api-technologies/#api-technologies
+
+<!--
+Never heard of it? You're not alone.
+-->
 
 ---
 
-# Demo
+# AsyncAPI
+
+OpenAPI-like definition of asynchronous APIs
+
+---
+
+# AsyncAPI
+
+Supports:
+
+* Kafka
+* AMQP
+* MQTT
+* JMS
+* WS
+* ...
+
+---
+
+# AsyncAPI
+
+UIs for :
+
+* Spring Boot
+* Quarkus
+
+
+---
+
+# Official AsyncAPI Generator
+
+Javascript :(
+
+<!--
+Causes lots of problems in current project.
+-->
+
+---
+
+# Official AsyncAPI Spring Boot Template
+
+Javascript :(
+React :(
+
+<!--
+Supports older version of spec, is not suitable as is, not maintainable within project
+-->
+
+---
+
+# NIH
+
+Try to start an AsyncAPI Generator using similar stack as OpenAPI Generator
+
+
+---
+
+# AsyncAPI Generator
+
+## Code & demo time
+
+---
+
+# Links
+
+* https://www.asyncapi.com/
+* https://github.com/asyncapi/generator
+* https://github.com/asyncapi/java-spring-template
+* https://springwolf.github.io/
+* https://github.com/quarkiverse/quarkus-asyncapi
+* https://www.postman.com/state-of-api/api-technologies/#api-technologies
+
+---
+
+# Links (contd.)
+
+* https://github.com/coiouhkc/asyncapi-generator
+* https://github.com/coiouhkc/asyncapi-generator-examples
 
 ---
 
