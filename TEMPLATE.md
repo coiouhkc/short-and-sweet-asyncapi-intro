@@ -138,6 +138,7 @@ Try to start an AsyncAPI Generator using similar stack as OpenAPI Generator
 
 # Links (contd.)
 
+* https://github.com/asyncapi/spec-json-schemas
 * https://github.com/coiouhkc/asyncapi-generator
 * https://github.com/coiouhkc/asyncapi-generator-examples
 
